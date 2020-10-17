@@ -7,7 +7,7 @@ Ejercicio 57: Encontrar el promedio de N numeros. Insertar en primer lugar el va
 
 Autor :Mendoza Perez Max William
 max.mendoza201@tectijuana.edu.mx
-Repositorio:https://github.com/Karen25-2/interfaz.git
+Repositorio:https://github.com/william9w/interfaz.git
 
 */
  #include <cstdlib>
